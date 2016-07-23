@@ -53,8 +53,8 @@ Section: 1 Course Intro
 [x] 1. Introduction 3:29
 
 Section: 2 Intro To Graph Databases
-[ ] 2. Section Intro 0:47
-[ ] 3. Graph Databases 6:54
+[x] 2. Section Intro 0:47
+[x] 3. Graph Databases 6:54
 [ ] 4. Graphs vs Relational Databases 8:27
 [ ] 5. The Graph Data Model 6:19
 [ ] Quiz 1: Intro To Graph Databases Quiz 0:00
