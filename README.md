@@ -55,17 +55,17 @@ Section: 1 Course Intro
 Section: 2 Intro To Graph Databases
 [x] 2. Section Intro 0:47
 [x] 3. Graph Databases 6:54
-[ ] 4. Graphs vs Relational Databases 8:27
-[ ] 5. The Graph Data Model 6:19
-[ ] Quiz 1: Intro To Graph Databases Quiz 0:00
+[x] 4. Graphs vs Relational Databases 8:27
+[x] 5. The Graph Data Model 6:19
+[x] Quiz 1: Intro To Graph Databases Quiz 0:00
 
 Section: 3 Getting Started With Neo4j
-[ ] 6. Section Intro 0:56
-[ ] 7. Introduction to Neo4j 9:41
-[ ] 8. Installing Neo4j in Windows 2:49
-[ ] 9. Installing Neo4j In Linux 2:32
-[ ] 10. Neo4j Browser Interface 8:51
-[ ] Quiz 2: Getting Started With Neo4j Quiz 0:00
+[x] 6. Section Intro 0:56
+[x] 7. Introduction to Neo4j 9:41
+[x] 8. Installing Neo4j in Windows 2:49
+[x] 9. Installing Neo4j In Linux 2:32
+[x] 10. Neo4j Browser Interface 8:51
+[x] Quiz 2: Getting Started With Neo4j Quiz 0:00
 
 Section: 4 Cypher & Neo4j Browser
 [ ] 11. Section Intro 1:12
