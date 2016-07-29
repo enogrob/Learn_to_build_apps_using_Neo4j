@@ -68,9 +68,9 @@ Section: 3 Getting Started With Neo4j
 [x] Quiz 2: Getting Started With Neo4j Quiz 0:00
 
 Section: 4 Cypher & Neo4j Browser
-[ ] 11. Section Intro 1:12
-[ ] 12. Understanding Cypher Query Language 9:10
-[ ] 13. Movie Graph Example 16:01
+[x] 11. Section Intro 1:12
+[x] 12. Understanding Cypher Query Language 9:10
+[x] 13. Movie Graph Example 16:01
 [ ] 14. Creating & Matching Nodes 8:05
 [ ] 15. Creating Relationships 15:49
 [ ] 16. Updating & Deleting Nodes & Properties 7:12
