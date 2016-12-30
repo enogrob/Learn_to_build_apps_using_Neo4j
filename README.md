@@ -8,11 +8,11 @@ Solution Integrator Experienced - Certified by Ericsson
 
 **About the Course**
 
-Data has single handedly become an important factor for individuals and business alike. This is mainly because data can translate into information, especially important information that is required to make big decisions. However, data in its raw form is worth very little. 
+Data has single handedly become an important factor for individuals and business alike. This is mainly because data can translate into information, especially important information that is required to make big decisions. However, data in its raw form is worth very little.
 
-Until data is sorted into sections and sub-sections, the data is simply information that is useless. An analysis can only be derived from the data when it is sorted and filed properly to show a pattern. This is where databases come into the picture. 
+Until data is sorted into sections and sub-sections, the data is simply information that is useless. An analysis can only be derived from the data when it is sorted and filed properly to show a pattern. This is where databases come into the picture.
 
-Databases sort and file data to help show a trend within the data, making the data a powerful tool for business, as well as people. Neo4J is a type of graph database, which helps sort data using a graph making it easier to file and retrieve data. 
+Databases sort and file data to help show a trend within the data, making the data a powerful tool for business, as well as people. Neo4J is a type of graph database, which helps sort data using a graph making it easier to file and retrieve data.
 
 Graph databases use a series of nodes, properties and relationships between the nodes, to sort the data. This method makes graph databases faster, more efficient, easy to scale, flexible and agile. It is also easier to fetch and retrieve accurate data because of the relationship between the nodes.
 
@@ -24,7 +24,7 @@ This course has been designed to help you start from scratch and master the cour
 
 The course starts at the very beginning with databases in general and progresses to actually building an application with NodeJS and JavaScript that employs Neo4J.
 
-In this course, you will learn everything about graph databases, general overview of the different types of databases, how graph databases stack up to other relational databases, the advantages of using this particular database, what is Neo4J, how to set up the Neo4J environment, the Cypher Query Language (the core language for interacting with Neo4J), available contributed language drivers, etc. 
+In this course, you will learn everything about graph databases, general overview of the different types of databases, how graph databases stack up to other relational databases, the advantages of using this particular database, what is Neo4J, how to set up the Neo4J environment, the Cypher Query Language (the core language for interacting with Neo4J), available contributed language drivers, etc.
 
 After you have mastered the basics and have learned the theory behind Neo4J, you will use those skills to design and build a working application. You will learn how to incorporate nodes, add properties and even create relationships in this application.
 
@@ -71,7 +71,7 @@ Section: 4 Cypher & Neo4j Browser
 [x] 11. Section Intro 1:12
 [x] 12. Understanding Cypher Query Language 9:10
 [x] 13. Movie Graph Example 16:01
-[ ] 14. Creating & Matching Nodes 8:05
+[x] 14. Creating & Matching Nodes 8:05
 [ ] 15. Creating Relationships 15:49
 [ ] 16. Updating & Deleting Nodes & Properties 7:12
 [ ] Quiz 3: Cypher & Neo4j Browser Quiz 0:00
