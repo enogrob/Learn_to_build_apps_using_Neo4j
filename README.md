@@ -72,7 +72,7 @@ Section: 4 Cypher & Neo4j Browser
 [x] 12. Understanding Cypher Query Language 9:10
 [x] 13. Movie Graph Example 16:01
 [x] 14. Creating & Matching Nodes 8:05
-[ ] 15. Creating Relationships 15:49
+[x] 15. Creating Relationships 15:49
 [ ] 16. Updating & Deleting Nodes & Properties 7:12
 [ ] Quiz 3: Cypher & Neo4j Browser Quiz 0:00
 
