@@ -73,8 +73,8 @@ Section: 4 Cypher & Neo4j Browser
 [x] 13. Movie Graph Example 16:01
 [x] 14. Creating & Matching Nodes 8:05
 [x] 15. Creating Relationships 15:49
-[ ] 16. Updating & Deleting Nodes & Properties 7:12
-[ ] Quiz 3: Cypher & Neo4j Browser Quiz 0:00
+[x] 16. Updating & Deleting Nodes & Properties 7:12
+[x] Quiz 3: Cypher & Neo4j Browser Quiz 0:00
 
 Section: 5 More On Cypher & Neo4j
 [ ] 17. Section Intro 1:00
