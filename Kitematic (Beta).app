@@ -1,0 +1,1 @@
+/Applications/Kitematic (Beta).app

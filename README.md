@@ -77,8 +77,8 @@ Section: 4 Cypher & Neo4j Browser
 [x] Quiz 3: Cypher & Neo4j Browser Quiz 0:00
 
 Section: 5 More On Cypher & Neo4j
-[ ] 17. Section Intro 1:00
-[ ] 18. Other Cypher Queries & Clauses 9:08
+[x] 17. Section Intro 1:00
+[x] 18. Other Cypher Queries & Clauses 9:08
 [ ] 19. Neo4j HTTP REST API 11:05
 [ ] 20. Language Drivers 5:07
 [ ] Quiz 4: More On Cypher & Neo4j Quiz 0:00
